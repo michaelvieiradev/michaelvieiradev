@@ -1,6 +1,6 @@
 # 👨🏻‍💻  Michael Vieira
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Front-End`**
 
 Me chamo Michael Vieira, atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFBV Wyden. Sou apaixonado por tecnologia e atuo na área comercial com SaaS B2B.
 
@@ -86,6 +86,45 @@ Me chamo Michael Vieira, atualmente, estou cursando Análise e Desenvolvimento d
 
 <br/>
 <br/>
+
+### 🤖 Ferramentas
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" 
+/>
+
 
 ### 📊 Estatísticas
 
