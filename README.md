@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Michael Vieira, atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFBV Wyden. Sou apaixonado por tecnologia e atuo na área comercial com SaaS B2B.
+Olá, sou Michael Vieira! Estou me formando em Análise e Desenvolvimento de Sistemas pela UNIFBV Wyden e atualmente atuo como executivo de vendas de produtos SaaS B2B em uma empresa de tecnologia em São Paulo. Apaixonado por inovação e tecnologia, busco sempre aprender e aplicar meus conhecimentos em projetos desafiadores, unindo minha experiência comercial com meu interesse em soluções digitais. Estou em busca de novas oportunidades para crescer e impactar o mercado de tecnologia.
 
 
 ### 🤖 Linguagens e Tecnologias
