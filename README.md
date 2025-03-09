@@ -125,6 +125,8 @@ Me chamo Michael Vieira, atualmente, estou cursando Análise e Desenvolvimento d
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" 
 />
 
+<br/>
+<br/>
 
 ### 📊 Estatísticas
 
