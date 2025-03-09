@@ -101,7 +101,7 @@ Me chamo Michael Vieira, atualmente, estou cursando Análise e Desenvolvimento d
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="100" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelvieiradev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
